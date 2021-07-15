@@ -8,13 +8,13 @@
     "image": "https://porini.foundation/wp-content/uploads/2021/07/NFT_01.gif",
 
     "attributes": [
-    { "card_type": "edition"
-      "value": 01
+    { "card_type": "edition",
+      "value": 1
     },
-    { "card_type": "number"
-      "value": 01
+    { "card_type": "number",
+      "value": 1
     },
-    { "protected_area": "name"
+    { "protected_area": "name",
       "value": "Nature Seychelles Number 1"
     }  
 
