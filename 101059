@@ -8,13 +8,13 @@
     "image": "https://porini.foundation/wp-content/uploads/2021/07/NFT_59-scaled.jpg",
 
     "attributes": [
-    { "card_type": "edition"
-      "value": 01
+    { "card_type": "edition",
+      "value": 1
     },
-    { "card_type": "number"
+    { "card_type": "number",
       "value": 59
     },
-    { "protected_area": "name"
+    { "protected_area": "name",
       "value": "Nature Seychelles Number 59"
     }  
 
