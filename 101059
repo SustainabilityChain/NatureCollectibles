@@ -5,7 +5,7 @@
     "description": "A project initiated by Porini Foundation, Nature Seychelles and IUCN",
 
     "imageIPFS": "https://ipfs.io/ipfs/QmamTCGxyX48ikKT1q8kqtn77BCqQiTENZQN5JC58kys6b?filename=NFT_59.png",
-    "image": "https://porini.foundation/wp-content/uploads/2021/07/NFT_59.png",
+    "image": "https://raw.githubusercontent.com/SustainabilityChain/NatureCollectibles/main/images/NFT_59.jpg",
 
     "attributes": [
     { "card_type": "edition"
