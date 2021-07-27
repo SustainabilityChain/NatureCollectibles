@@ -6,7 +6,7 @@ The contract NatureCollectibles.sol is deployed on the zerocarbon blockchain ini
 
 Contract Address is: 0x26B402497607FB839A38b94361Cb60Bd8AE5B780 deployed by owner:0x4Db15b39994144145959D58c06a850Bf2a8BBe0C
 
-Enumeration is as follows 1XXYYY where 1XX is the edition and YYY the ID of the collectible. So the first edition are 59 Nature Seychelles Magpies  101001 - 101059 a second edition for another animal will be 102001 - 102XXX
+Enumeration is as follows 1XXYYY where the first three letters are the edition and YYY the ID of the collectible. So the first edition are 59 Nature Seychelles Magpies  101001 - 101059 a second edition for another animal will be 102001 - 102XXX
 
 # NatureCollectible Marketplace
 The Nature Collectibles can be displayed in the Green List Marketplace app on Android and iOS. In this app two tokens are displayed: The Impact Dollar IMD and the Porini Community Token PCT. 
