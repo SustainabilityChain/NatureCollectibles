@@ -36,5 +36,8 @@ chainId: 421; rpc.porini.info
 
 # wrapped custom Ether
 
+•	Contract address: 0x67B9768e1B99b4A5801108B00E171c5a8033124E
+
+•	Contract code:wrap.sol
 
 
