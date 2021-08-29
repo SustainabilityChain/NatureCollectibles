@@ -5,6 +5,7 @@ pragma solidity 0.7.5;
 /**
  * @title EternalStorage
  * this is a contract copied from mediatorcontract on xDAI to bridge ERC721 to Ethereum https://blockscout.com/xdai/mainnet/address/0x80199C8D04Af4c5cEB532adF4463b18BB4B59ffC/contracts
+ * it is deployed here 0x097C5C119D548ff7f7055310A2B29D070f9E11e9
  * @dev This contract holds all the necessary state variables to carry out the storage of any contract.
  */
 contract EternalStorage {
