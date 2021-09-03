@@ -1,22 +1,25 @@
+
 {
 
     "name": "NatureCollectible",
 
     "description": "A project initiated by Porini Foundation, Nature Seychelles and IUCN",
 
-    "imageIPFS": "https://ipfs.io/ipfs/QmUFpNWsEyMM9WVgLcKFy97asW8LDburzzND7y8WfiwAQh?filename=NFT_01.gif",
-    "image": "https://porini.foundation/wp-content/uploads/2021/07/NFT_21-scaled.jpg",
+    "imageIPFS": "https://ipfs.io/ipfs/QmamTCGxyX48ikKT1q8kqtn77BCqQiTENZQN5JC58kys6b?filename=NFT_59.png",
+    "image": "https://porini.foundation/wp-content/uploads/2021/07/NFT_2-scaled.jpg",
 
     "attributes": [
-    { "card_type": "proof of attendance",
+    { "card_type": "edition",
       "value": 1
     },
     { "card_type": "number",
-      "value": 1
+      "value": 2
     },
     { "protected_area": "name",
-      "value": "World Conservation Congress 2020 - 2"
+      "value": "Nature Seychelles Number 2"
     }  
 
 
   ]
+
+}
