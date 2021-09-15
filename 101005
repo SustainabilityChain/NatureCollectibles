@@ -1,0 +1,24 @@
+{
+
+    "name": "NatureCollectible",
+
+    "description": "A project initiated by Porini Foundation, Nature Seychelles and IUCN",
+
+    "imageIPFS": "https://ipfs.io/ipfs/QmdE2Y96wnjq1Wx1zEpECgR2Udx8q8H1zqZ67cutyFk2RT?filename=NFT_3.png",
+    "image": "https://porini.foundation/wp-content/uploads/2021/07/NFT_5-scaled.jpg",
+
+    "attributes": [
+    { "card_type": "edition",
+      "value": 1
+    },
+    { "card_type": "number",
+      "value": 5
+    },
+    { "protected_area": "name",
+      "value": "Nature Seychelles Number 5"
+    }  
+
+
+  ]
+
+}
