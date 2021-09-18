@@ -11,6 +11,8 @@ Enumeration is as follows 1XXYYY where the first three letters are the edition a
 # NatureCollectible Marketplace
 The Nature Collectibles can be displayed in the Green List Marketplace app on Android and iOS. In this app two tokens are displayed: The Impact Dollar IMD and the Porini Community Token PCT. 
 
+The contract is also deployed on xDAI chain at 0x888e3C7B595E803a68f52Ae876764F47632A0b32 https://blockscout.com/xdai/mainnet/address/0x888e3C7B595E803a68f52Ae876764F47632A0b32
+
 # Impact Dollar IMD
 chainId: 421; rpc.porini.info
 
