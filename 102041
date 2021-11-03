@@ -1,0 +1,25 @@
+{
+
+  "name": "NatureCollectible",
+
+  "description": "A project initiated by Porini Foundation, Nature Seychelles and IUCN",
+
+  "imageIPFS": "https://ipfs.io/ipfs/QmUFpNWsEyMM9WVgLcKFy97asW8LDburzzND7y8WfiwAQh?filename=NFT_01.gif",
+  "image": "https://porini.foundation/wp-content/uploads/2021/09/Splitfin41.png",
+
+  "attributes": [
+  { "card_type": "edition",
+    "value": 2
+  },
+  { "card_type": "number",
+    "value": 41
+  },
+  { "protected_area": "name",
+    "value": "Shoal Conservation"
+  }
+
+
+
+]
+
+}
