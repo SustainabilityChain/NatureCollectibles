@@ -1,0 +1,24 @@
+{
+
+    "name": "NatureCollectible",
+
+    "description": "A project initiated by Porini Foundation and IUCN",
+
+    "imageIPFS": "https://ipfs.io/ipfs/QmSHBJfYUMTaTs2u9h8qVga37kYH2WwwTzpffkwhY1eydW?ProofOfAttendanceMarseille.gif",
+    "image": "https://porini.foundation/wp-content/uploads/2021/11/NFT_Mallorca_still2-scaled.jpg",
+
+    "attributes": [
+    { "card_type": "proof-of-attendance",
+      "value": 17
+    },
+    { "card_type": "number",
+      "value": 3
+    },
+    { "protected_area": "name",
+      "value": "ESB event"
+    }
+
+
+  ]
+
+}
