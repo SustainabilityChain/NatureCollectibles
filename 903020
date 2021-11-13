@@ -9,10 +9,10 @@
 
     "attributes": [
     { "card_type": "proof-of-attendance",
-      "value": 93
+      "value": 3
     },
     { "card_type": "number",
-      "value": 11
+      "value": 20
     },
     { "protected_area": "name",
       "value": "COP26 Glasgow"
