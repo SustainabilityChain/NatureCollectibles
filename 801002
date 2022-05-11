@@ -1,0 +1,24 @@
+{
+
+    "name": "NatureCollectible",
+
+    "description": "A project initiated by Porini Foundation and IUCN",
+
+    "imageIPFS": "https://ipfs.io/ipfs/QmT711Z2n5Y39PWwtX2HdGiTWHsTFTopWi3d6qtsPRii5N?NatureBoosterPack.mp4",
+    "image": "https://porini.foundation/wp-content/uploads/2022/05/booster_still.jpg",
+
+    "attributes": [
+    { "card_type": "Booster Pack",
+      "value": 0
+    },
+    { "card_type": "number",
+      "value": 2
+    },
+    { "protected_area": "name",
+      "value": "varia"
+    }  
+
+
+  ]
+
+}
