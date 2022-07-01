@@ -1,0 +1,24 @@
+{
+
+    "name": "NatureCollectible",
+
+    "description": "A project initiated by Porini Foundation, Nature Seychelles and IUCN",
+
+    "imageIPFS": "https://ipfs.io/ipfs/QmUFpNWsEyMM9WVgLcKFy97asW8LDburzzND7y8WfiwAQh?filename=NFT_01.gif",
+    "image": "https://porini.foundation/wp-content/uploads/2022/07/Harpy_Eagle40.png",
+
+    "attributes": [
+    { "card_type": "edition",
+      "value": 3
+    },
+    { "card_type": "number",
+      "value": 39
+    },
+    { "protected_area": "name",
+      "value": "RESERVA PROAVES ÁGUILA ARPÍA"
+    }
+
+
+  ]
+
+}
